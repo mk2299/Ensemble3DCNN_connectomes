@@ -1,4 +1,4 @@
-# Ensemble3DCNN_connectomes
+# Ensemble learning with 3D convolutional neural networks for functional connectome-based prediction
 
 This code provides a python Keras based implementation of the following paper: \
 Meenakshi Khosla, Keith Jamison, Amy Kuceyeski,c, Mert R. Sabuncu \
