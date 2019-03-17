@@ -32,8 +32,8 @@ To learn about the parameters, use \
 python train_and_evaluate_regression.py --help \
 OR python train_and_evaluate_classification.py --help 
 
-To run the models with default parameters, run
-python train_and_evaluation_regression.py --data_folder /path/to/data
+To run the models with default parameters, run \
+python train_and_evaluation_regression.py --data_folder /path/to/data \
 OR python train_and_evaluation_classification.py --data_folder /path/to/data
 
 
