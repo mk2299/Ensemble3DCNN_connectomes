@@ -1,8 +1,8 @@
 # Ensemble3DCNN_connectomes
 
 This code provides a python Keras based implementation of the following paper: \
-Meenakshi Khosla, Keith Jamison, Amy Kuceyeski,c, Mert R. Sabuncu
-"Ensemble learning with 3D convolutional neural networks for connectome-based prediction" 
+Meenakshi Khosla, Keith Jamison, Amy Kuceyeski,c, Mert R. Sabuncu \
+"Ensemble learning with 3D convolutional neural networks for connectome-based prediction" \
 Arxiv: https://arxiv.org/abs/1809.06219
 
 keywords: Functional connectivity, fMRI, Convolutional Neural Networks,
